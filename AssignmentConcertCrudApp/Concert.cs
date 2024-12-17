@@ -22,6 +22,10 @@ namespace AssignmentConcertCrudApp
             Date = date;
                 
         }
+        public static List<string> GetConcertList() 
+        {
+            return new List<string> { "con1", "con2", "con3" };
+        }
         /*public  Concert AddConcert(int id, string place, string performer, string capacity, string date)
         {
             Concert concert = new Concert(id, place, performer, capacity, date);           

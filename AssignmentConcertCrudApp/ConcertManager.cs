@@ -22,7 +22,14 @@ namespace AssignmentConcertCrudApp
             catch (Exception ex) { Console.WriteLine(ex.Message); }
             
         }
-
+        public void AddConcertFromForm(Concert concert)
+        { 
+            concerts.Add(concert);
+            Console.WriteLine("in AddConcertFromForm(Concert concert) befor write to file ");
+            //Add to file 
+            concertFile.WriteConcertToFile(concerts);
+            Console.WriteLine("in AddConcertFromForm(Concert concert) after write to file");
+        }
         public void AddConcert()
         {
             int id; string place; string performer; string capacity; string date;

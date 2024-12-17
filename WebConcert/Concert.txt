@@ -1,0 +1,14 @@
+7,skana,Bally,34,05sept2025
+6,Helsinborg,Mary,120,05sept2025
+7,Helsinborg,Bally,120,05sept2025
+7,Helsinborg,Bally,120,05sept2025
+8,Helsinborg,Bally,120,05sept2025
+8,Helsinborg,Bally,34,05sept2025
+8,Helsinborg,Bally,34,05sept2025
+6,Helsinborg,Bally,34,05sept2025
+6,Helsinborg,Bally,34,05sept2025
+7,Helsinborg,Bally,120,05sept2025
+10,Helsinborg,Bally,120,05sept2025
+1,Almhult,Dally,70,
+2,skana,Dally,100,2024-12-30
+10,Malmo,Rami,75,2025-01-23
